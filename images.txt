@@ -1,8 +1,4 @@
 #支持指定架构
 --platform=linux/arm64
 
-mysql:latest
-redis:latest
 infiniflow/ragflow:latest
-minio:latest
-es01:latest
