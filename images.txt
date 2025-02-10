@@ -1,6 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64
 
-infiniflow/ragflow:latest
-stilleshan/frps:latest
-stilleshan/frpc:latest
+infiniflow/ragflow:nightly
